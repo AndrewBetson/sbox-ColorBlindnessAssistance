@@ -5,7 +5,6 @@ using Sandbox.Rendering;
 
 namespace AndrewBetson;
 
-[Title( "Color Blind Assistance" )]
 [Category( "Post Processing" )]
 [Icon( "visibility" )]
 [Description( "Applies color blindness assistance to the camera" )]
