@@ -1,0 +1,13 @@
+{
+  "Title": "Color Blindness Assistance",
+  "Type": "library",
+  "Org": "andrewbetson",
+  "Ident": "color_blindness_assistance",
+  "Schema": 1,
+  "IncludeSourceFiles": false,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "IsWhitelistDisabled": false,
+  "Metadata": {}
+}

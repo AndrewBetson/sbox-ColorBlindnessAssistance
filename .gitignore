@@ -1,0 +1,14 @@
+# Ignore everything by default.
+*.*
+!*/
+
+!.gitignore
+!*.sbproj
+!*.md
+!*.cs
+!*.scene
+!*.shader
+!*.hlsl
+
+# This has .cs files we don't want to commit in it.
+Code/obj/
